@@ -16,23 +16,22 @@ totalNumberOfMaps = 32
 mapNumbers = range(1, totalNumberOfMaps+1)
 
 for mapNumber in mapNumbers:
-    continue # already downloaded them for testing
-    fileURL = 'http://ibrahimshaath.co.uk/imperialassault/%02i.jpg' % mapNumber
-    print 'Downloading:', fileURL
-    urllib.urlretrieve(fileURL, os.path.split(fileURL)[1])
-
-fileNumberIter = 1
+    if not os.path.isfile('%02i.jpg' % mapNumber):
+        fileURL = 'http://ibrahimshaath.co.uk/imperialassault/%02i.jpg' % mapNumber
+        print 'Downloading:', fileURL
+        urllib.urlretrieve(fileURL, os.path.split(fileURL)[1])
 
 print "\nDownloads done. Combining Images. This might take some processing time..."
 
+fileNumberIter = 1
 for listOfMapNumsToCombine in chunks(mapNumbers, 8):
     jpgFile = 'map_group_%i.jpg' % fileNumberIter
     # For tournament maps use this name instead:
-    jpgFile = 'tournament_maps_%i.jpg' % fileNumberIter
+    # jpgFile = 'tournament_maps_%i.jpg' % fileNumberIter
 
     # For tournament maps just print these map numbers
     # if you want to make a custom selection of maps, you can enter them here too
-    listOfMapNumsToCombine = [15, 19, 24]
+    # listOfMapNumsToCombine = [19, 24, 27]
 
     sourceList = []
     for i in listOfMapNumsToCombine:
@@ -60,4 +59,4 @@ for listOfMapNumsToCombine in chunks(mapNumbers, 8):
     fileNumberIter += 1
 
     # If you just want to print one page of stuff, eg for tournament maps, break here and don't loop
-    break
+    # break
