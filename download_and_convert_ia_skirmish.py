@@ -27,11 +27,11 @@ fileNumberIter = 1
 for listOfMapNumsToCombine in chunks(mapNumbers, 8):
     jpgFile = 'map_group_%i.jpg' % fileNumberIter
     # For tournament maps use this name instead:
-    # jpgFile = 'tournament_maps_%i.jpg' % fileNumberIter
+    jpgFile = 'tournament_maps_%i.jpg' % fileNumberIter
 
     # For tournament maps just print these map numbers
     # if you want to make a custom selection of maps, you can enter them here too
-    # listOfMapNumsToCombine = [19, 24, 27]
+    listOfMapNumsToCombine = [27,30,37]
 
     sourceList = []
     for i in listOfMapNumsToCombine:
