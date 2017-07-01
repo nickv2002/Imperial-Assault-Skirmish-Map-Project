@@ -33,5 +33,5 @@ PixartPrinting asks for PDFs, why do you only JPGs? They will also accept 300 DP
 * **I found an mistake in the maps.** Please double check with the rules and original map insert. After confirming, please [Create an Issue](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/issues/new) on GitHub or let Nick know at the contact info below.
 
 
-### Questions?
+### Contact Info
 For questions about the maps or printing please create an issue ticket here or contact Nick ([FFG Forums](https://community.fantasyflightgames.com/profile/260007-nickv2002/), [Twitter](https://twitter.com/ianeworders), or nickv2002 on the [BoardWars Discord](http://discord.me/bweu)). For questions about the BoardWars Image Database please [contact Stephan](http://boardwars.eu/about/).
