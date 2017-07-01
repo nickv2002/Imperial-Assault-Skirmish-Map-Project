@@ -1,3 +1,4 @@
+![detail map preview](web_images/map-preview.jpg)
 # Imperial Assault Printable Skirmish Maps
 
 [New Orders](https://neworders.xyz) and [Board Wars](http://boardwars.eu/) podcasts are working together to bring you the Imperial Assault Skirmish Map Project. The project continues the lovely work started by Ibsh to create beautiful images for every Imperial Assault Skirmish Map. These maps serve two purposes:
@@ -15,9 +16,12 @@ In addition to making high resolution maps, much care has gone into cleaning up 
 
 ### Printing
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
+![detail map preview](web_images/map-sample.jpg)
 
+* [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationISBAnchorheadJabba) are the most popular printouts
+* There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
-* PixArtPrinting *does* print 300 DPI JPGs (created with this script) in addition to PDFs, even though they ask for PDFs initially.
+* PixArtPrinting *does* print 300 DPI JPGs (created with this script), even though their website asks for PDFs.
 * The JPG files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer
 
 ### Frequently Asked Questions
