@@ -1,5 +1,5 @@
 ![detail map preview](web_images/map-preview.jpg)
-# Imperial Assault Printable Skirmish Maps
+# Imperial Assault Skirmish Map Project
 
 [New Orders](https://neworders.xyz) and [Board Wars](http://boardwars.eu/) podcasts are working together to bring you the Imperial Assault Skirmish Map Project. The project continues the lovely work started by Ibsh to create beautiful images for every Imperial Assault Skirmish Map. These maps serve two purposes:
 
@@ -8,22 +8,21 @@
 
 *To use these maps you must own the indicated Fantasy Flight Games product.*
 
-### Background & Colophon
-
-Project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/).
-
-In addition to making high resolution maps, much care has gone into cleaning up these map images. The seams between tiles have been removed, but you’ll also find altered wording for clearer mission rules and some other subtle tweaks that we think improves the maps.
-
 ### Printing
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
 ![playmat photo](web_images/map-sample.jpg)
 
-* [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationISBAnchorheadJabba) are the most popular printouts.
+* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationISBAnchorheadJabba).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
 * PixArtPrinting *does* print 300 DPI JPGs (created with this script), even though their website asks for PDFs.
 * The JPG files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
 
+### Background & Colophon
+
+This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/).
+
+In addition to making high resolution maps, much care has gone into cleaning up these map images. The seams between tiles have been removed, but you’ll also find altered wording for clearer mission rules and some other subtle tweaks that we think improves the maps.
 ### Frequently Asked Questions
 * **What about the other maps from the Jabba’s Realm Wave?** We’re working on these but the new tiles led to extra work and the handoff from Ibsh to Nick has slowed this down. If you're good with image-editing please get in touch!
 * **What about the 4-Player maps?** We’re working on this but they’re a lower priority.
