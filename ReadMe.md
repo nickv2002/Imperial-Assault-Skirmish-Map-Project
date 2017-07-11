@@ -42,6 +42,7 @@
 |[Kashyyyk Station](IA_Half-Res_Skirmish_Maps/31-halfres.jpg)|The Grand Inquisitor Villain Pack|2016-10-18|
 |[Hangar Bay](IA_Half-Res_Skirmish_Maps/32-halfres.jpg)|Greedo Villain Pack|2016-07-11|
 |[Anchorhead Cantina](IA_Half-Res_Skirmish_Maps/30-halfres.jpg)|Obi-Wan Kenobi Ally Pack|2016-07-10|
+|[The Pit of Carkoon](IA_Half-Res_Skirmish_Maps/33-halfres.jpg)|Jabba's Realm|2017-04-08|
 |[Jabba’s Palace](IA_Half-Res_Skirmish_Maps/37-halfres.jpg)|Jabba The Hutt Villain Pack|2017-04-08|
 |[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2017-07-07|
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-07|
@@ -59,7 +60,7 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 
 
 ### Background & Colophon
-This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/).
+This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/). Stephan has also provided valuable help with image retouching on several map tiles from Jabba's Realm.
 
 In addition to making high resolution maps, much care has gone into cleaning up these map images. The seams between tiles have been removed, but you’ll also find altered wording for clearer mission rules and some other subtle tweaks that we think improves the maps.
 
