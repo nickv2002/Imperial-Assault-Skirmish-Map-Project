@@ -25,17 +25,18 @@ outputDir = "Combined_IA_Map_Sheets"
 
 # build a dictionary of all groups of maps to print
 mapDict = {
-    'Core':                                [1,2,3,4,5,6,7,8,9,10],
-    'TwinShadows':                         [11,12,13,14],
-    'ReinforcementWave1WookiesHiredGuns':  [15,16,17],
-    'ReturnToHoth':                        [18,19,20,21,22],
-    'ReinforcementWave2BanthaSmuggler':    [23,24],
-    'BespinGambit':                        [25,26,27,28,29],
-    'ReinforcementWave3ObiGreedoGI':       [30,31,32],
-    'JabbasRealmIncomplete':               [37],
+    # 'Core':                                [1,2,3,4,5,6,7,8,9,10],
+    # 'TwinShadows':                         [11,12,13,14],
+    # 'ReinforcementWave1WookiesHiredGuns':  [15,16,17],
+    # 'ReturnToHoth':                        [18,19,20,21,22],
+    # 'ReinforcementWave2BanthaSmuggler':    [23,24],
+    # 'BespinGambit':                        [25,26,27,28,29],
+    # 'ReinforcementWave3ObiGreedoGI':       [30,31,32],
+    'JabbasRealmIncomplete':               [33,34,37],
     # 'JabbasRealm':                         [33,34,35,36,37], #full set is not finished yet
     'ReinforcementWave4Droids':            [38,39,40],
-    'TournamenRotationISBAnchorheadJabba': [27,30,37] }
+    # 'TournamenRotationISBAnchorheadJabba': [27,30,37],
+     }
 
 # build the all map group from all numbers listed above
 allMapsNums = set()

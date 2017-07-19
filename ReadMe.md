@@ -43,6 +43,7 @@
 |[Hangar Bay](IA_Half-Res_Skirmish_Maps/32-halfres.jpg)|Greedo Villain Pack|2016-07-11|
 |[Anchorhead Cantina](IA_Half-Res_Skirmish_Maps/30-halfres.jpg)|Obi-Wan Kenobi Ally Pack|2016-07-10|
 |[The Pit of Carkoon](IA_Half-Res_Skirmish_Maps/33-halfres.jpg)|Jabba's Realm|2017-07-10|
+|[The Dune Sea](IA_Half-Res_Skirmish_Maps/34-halfres.jpg)|Luke Skywalker, Jedi Knight Ally Pack|2017-07-18 |
 |[Jabba’s Palace](IA_Half-Res_Skirmish_Maps/37-halfres.jpg)|Jabba The Hutt Villain Pack|2017-04-08|
 |[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2017-07-07|
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-10|

@@ -1,4 +1,4 @@
-* Print `ReinforcementWave4Droids.jpg` at 64.0 inches wide by 24.0 inches tall (162.56 by 60.96 cm)
+* Print `ReinforcementWave4Droids.jpg` at 61.0 inches wide by 24.0 inches tall (154.94 by 60.96 cm)
 
 #### Notes
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
