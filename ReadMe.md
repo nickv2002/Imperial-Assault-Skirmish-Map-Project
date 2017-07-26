@@ -62,7 +62,7 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 
 
 ### Background & Colophon
-This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/). Stephan has also provided valuable help with image retouching on several map tiles from Jabba's Realm.
+This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/). Stephan and EvadGonzo has also provided valuable help with image retouching on several map tiles from Jabba's Realm.
 
 In addition to making high resolution maps, much care has gone into cleaning up these map images. The seams between tiles have been removed, but you’ll also find altered wording for clearer mission rules and some other subtle tweaks that we think improves the maps.
 
