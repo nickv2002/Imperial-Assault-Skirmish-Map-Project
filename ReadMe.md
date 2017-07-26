@@ -70,7 +70,7 @@ In addition to making high resolution maps, much care has gone into cleaning up 
 * **What about the other maps from the Jabba’s Realm Wave?** We’re working on these but the new tiles led to extra work and the handoff from Ibsh to Nick has slowed this down. If you're good with image-editing please get in touch!
 * **What about the 4-Player maps?** These are a much lower priority, but if they're important to you please let me know and help out.
 * **How can I create some other mix of printable maps?** Many [different map groups have been created](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets) already (this includes an incomplete group for Jabba’s Realm). Otherwise, the source code & files are all available as part of this GitHub project.
-* **Who’s credited for making these maps?** All the maps predating Jabba’s Realm and the Jabba’s Palace map were made by Ibsh. The few other were made by Nick with help from Ibsh’s original scans and tile-retouching from Stephan.
+* **Who’s credited for making these maps?** *Jabba's Palace* and maps predating *Jabba’s Realm* were made by Ibsh. The few other were made by Nick with help from Ibsh’s original scans and tile-retouching from Stephan & EvadGonzo.
 * **I found an mistake in the maps.** Please double check with the rules and original map insert. After confirming, please [Create an Issue](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/issues/new) on GitHub or let Nick know at the contact info below.
 * **How can I help** If you're good with image-editing or have a flatbed scanner, please get in touch. Nick needs help cleaning up the imagery for the Jabba's Realm wave.
 
