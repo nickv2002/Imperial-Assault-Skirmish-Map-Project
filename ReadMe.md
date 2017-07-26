@@ -43,7 +43,8 @@
 |[Hangar Bay](IA_Half-Res_Skirmish_Maps/32-halfres.jpg)|Greedo Villain Pack|2016-07-11|
 |[Anchorhead Cantina](IA_Half-Res_Skirmish_Maps/30-halfres.jpg)|Obi-Wan Kenobi Ally Pack|2016-07-10|
 |[The Pit of Carkoon](IA_Half-Res_Skirmish_Maps/33-halfres.jpg)|Jabba's Realm|2017-07-10|
-|[The Dune Sea](IA_Half-Res_Skirmish_Maps/34-halfres.jpg)|Luke Skywalker, Jedi Knight Ally Pack|2017-07-18 |
+|[The Dune Sea](IA_Half-Res_Skirmish_Maps/34-halfres.jpg)|Luke Skywalker, Jedi Knight Ally Pack|2017-07-18|
+|[Nal Hutta Swamps](IA_Half-Res_Skirmish_Maps/35-halfres.jpg)|Alliance Rangers Ally Pack|2017-07-26|
 |[Jabba’s Palace](IA_Half-Res_Skirmish_Maps/37-halfres.jpg)|Jabba The Hutt Villain Pack|2017-04-08|
 |[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2017-07-07|
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-10|
@@ -53,7 +54,7 @@
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
 ![playmat photo](web_images/map-sample.jpg)
 
-* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationISBAnchorheadJabba).
+* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationAnchorheadJabbaNalHutta).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
 * PixArtPrinting *does* print 300 DPI JPGs (including the groups and single maps hosted here), even though their website asks for PDFs.

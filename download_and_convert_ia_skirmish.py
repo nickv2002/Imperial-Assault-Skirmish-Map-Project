@@ -32,10 +32,10 @@ mapDict = {
     # 'ReinforcementWave2BanthaSmuggler':    [23,24],
     # 'BespinGambit':                        [25,26,27,28,29],
     # 'ReinforcementWave3ObiGreedoGI':       [30,31,32],
-    'JabbasRealmIncomplete':               [33,34,37],
+    'JabbasRealmIncomplete':               [33,34,35,37],
     # 'JabbasRealm':                         [33,34,35,36,37], #full set is not finished yet
-    'ReinforcementWave4Droids':            [38,39,40],
-    # 'TournamenRotationISBAnchorheadJabba': [27,30,37],
+    # 'ReinforcementWave4Droids':            [38,39,40],
+    'TournamenRotationAnchorheadJabbaNalHutta': [30,37,35],
      }
 
 # build the all map group from all numbers listed above
