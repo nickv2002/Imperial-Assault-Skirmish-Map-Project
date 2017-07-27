@@ -56,7 +56,7 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 
 * **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationAnchorheadJabbaNalHutta) (*Anchorhead Cantina*, *Jabba's Palace*, & *Nal Hutta Swamps*).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
-* Finally, individual maps can be printed by [downloading the 300 DPI versions](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/IA_300_DPI_Skirmish_Maps) and submitting that to PixArtPrinting. To calculate the dimensions divide the horizontal and vertical pixels by 300 and those will be your dimensions in inches.
+* Finally, individual maps can be printed by downloading the 300 DPI Print versions linked in the table above and submitting that to PixArtPrinting. To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
 * PixArtPrinting *does* print 300 DPI JPGs (including the groups and single maps hosted here), even though their website asks for PDFs.
 * The JPG files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
