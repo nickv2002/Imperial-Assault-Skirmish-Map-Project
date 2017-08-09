@@ -25,17 +25,16 @@ outputDir = "Combined_IA_Map_Sheets"
 
 # build a dictionary of all groups of maps to print
 mapDict = {
-    # 'Core':                                [1,2,3,4,5,6,7,8,9,10],
-    # 'TwinShadows':                         [11,12,13,14],
-    # 'ReinforcementWave1WookiesHiredGuns':  [15,16,17],
-    # 'ReturnToHoth':                        [18,19,20,21,22],
-    # 'ReinforcementWave2BanthaSmuggler':    [23,24],
-    # 'BespinGambit':                        [25,26,27,28,29],
-    # 'ReinforcementWave3ObiGreedoGI':       [30,31,32],
-    # 'JabbasRealmIncomplete':               [33,34,35,37],
-    # 'JabbasRealm':                         [33,34,35,36,37], #full set is not finished yet
+    'Core':                                [1,2,3,4,5,6,7,8,9,10],
+    'TwinShadows':                         [11,12,13,14],
+    'ReinforcementWave1WookiesHiredGuns':  [15,16,17],
+    'ReturnToHoth':                        [18,19,20,21,22],
+    'ReinforcementWave2BanthaSmuggler':    [23,24],
+    'BespinGambit':                        [25,26,27,28,29],
+    'ReinforcementWave3ObiGreedoGI':       [30,31,32],
+    'JabbasRealm':                         [33,34,35,36,37],
     'ReinforcementWave4Droids':            [38,39,40],
-    # 'TournamenRotationAnchorheadJabbaNalHutta': [30,37,35],
+    'TournamenRotationAnchorheadJabbaNalHutta': [30,37,35],
      }
 
 # build the all map group from all numbers listed above
@@ -45,24 +44,13 @@ for ithGroup in mapDict:
         mapFilename = os.path.join('IA_300_DPI_Skirmish_Maps', '%02i.jpg' % mapInt)
         assert os.path.isfile(mapFilename), "\nERROR: missing map: %s" % mapFilename
         allMapsNums.add( int(mapInt) )
-# mapDict['All2PlayerMaps'] = sorted(allMapsNums)
-
-# Old system where we just downlaoded and iterate through the maps sequentially
-#
-# import urllib
-# totalNumberOfMaps = 32
-# mapNumbers = range(1, totalNumberOfMaps+1)
-# for mapNumber in mapNumbers:
-#     if not os.path.isfile('%02i.jpg' % mapNumber):
-#         fileURL = 'http://ibrahimshaath.co.uk/imperialassault/%02i.jpg' % mapNumber
-#         print 'Downloading:', fileURL
-#         urllib.urlretrieve(fileURL, os.path.split(fileURL)[1])
-# print "\nDownloads done. Combining Images. This might take some processing time..."
+mapDict['All2PlayerMaps'] = sorted(allMapsNums)
 
 maxMapsInGroup = 10
 for ithGroup in mapDict:
-    # for testing
+    # for just updating the All2PlayerMaps group:
     # if ithGroup != 'All2PlayerMaps': continue
+
     listOfMapsInGroup = mapDict[ithGroup]
     multipleSheetsInGroup  = len(listOfMapsInGroup) > maxMapsInGroup
     fileNumberIter         = 1
