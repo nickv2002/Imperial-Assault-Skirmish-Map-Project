@@ -44,7 +44,7 @@
 |[Anchorhead Cantina](IA_Half-Res_Skirmish_Maps/30-halfres.jpg)|Obi-Wan Kenobi Ally Pack|2016-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/30.jpg)|
 |[The Pit of Carkoon](IA_Half-Res_Skirmish_Maps/33-halfres.jpg)|Jabba's Realm|2017-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/33.jpg)|
 |[The Dune Sea](IA_Half-Res_Skirmish_Maps/34-halfres.jpg)|Luke Skywalker, Jedi Knight Ally Pack|2017-07-18|[&rarr;](IA_300_DPI_Skirmish_Maps/34.jpg)|
-|[Nal Hutta Swamps](IA_Half-Res_Skirmish_Maps/35-halfres.jpg)|Alliance Rangers Ally Pack|2017-07-26|[&rarr;](IA_300_DPI_Skirmish_Maps/35.jpg)|
+|[Nal Hutta Swamps](IA_Half-Res_Skirmish_Maps/35-halfres.jpg)|Alliance Rangers Ally Pack|2017-07-26|[&rarr;](IA_300_DPI_Skirmish_Maps/35.jpg) [Pre-Cropped](IA_300_DPI_Skirmish_Maps/35_cropped.jpg)|
 |[Endor Defense Station](IA_Half-Res_Skirmish_Maps/36-halfres.jpg)|Captain Terro Villain Pack|2017-04-08|[&rarr;](IA_300_DPI_Skirmish_Maps/36.jpg)|
 |[Jabba’s Palace](IA_Half-Res_Skirmish_Maps/37-halfres.jpg)|Jabba The Hutt Villain Pack|2017-04-08|[&rarr;](IA_300_DPI_Skirmish_Maps/37.jpg)|
 |[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/38.jpg)|
