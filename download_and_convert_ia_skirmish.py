@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-# coding=utf-8
+# -*- coding: utf-8 -*-
 
 # Convert 300 DPI Maps to JPGs strips for printing on PixArtPrinting
+# Requires Python 2.7.X and PIL or Pillow image processing libraries
 
 import sys, os
 from PIL import Image
