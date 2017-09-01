@@ -45,11 +45,18 @@
 |[The Pit of Carkoon](IA_Half-Res_Skirmish_Maps/33-halfres.jpg)|Jabba's Realm|2017-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/33.jpg)|
 |[The Dune Sea](IA_Half-Res_Skirmish_Maps/34-halfres.jpg)|Luke Skywalker, Jedi Knight Ally Pack|2017-07-18|[&rarr;](IA_300_DPI_Skirmish_Maps/34.jpg)|
 |[Nal Hutta Swamps](IA_Half-Res_Skirmish_Maps/35-halfres.jpg)|Alliance Rangers Ally Pack|2017-07-26|[&rarr;](IA_300_DPI_Skirmish_Maps/35.jpg) [Pre-Cropped](IA_300_DPI_Skirmish_Maps/35_cropped.jpg)|
-|[Endor Defense Station](IA_Half-Res_Skirmish_Maps/36-halfres.jpg)|Captain Terro Villain Pack|2017-04-08|[&rarr;](IA_300_DPI_Skirmish_Maps/36.jpg)|
+|[Endor Defense Station](IA_Half-Res_Skirmish_Maps/36-halfres.jpg)|Captain Terro Villain Pack|2017-08-09|[&rarr;](IA_300_DPI_Skirmish_Maps/36.jpg)|
 |[Jabba’s Palace](IA_Half-Res_Skirmish_Maps/37-halfres.jpg)|Jabba The Hutt Villain Pack|2017-04-08|[&rarr;](IA_300_DPI_Skirmish_Maps/37.jpg)|
 |[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/38.jpg)|
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/39.jpg)|
 |[Chopper Base Atollon](IA_Half-Res_Skirmish_Maps/40-halfres.jpg)|Hera Syndulla and C1-10P Ally Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/40.jpg)|
+
+#### Four-Player Maps
+| Map (Web Version Link) |Product| Updated |Print Version|
+|---|---|:---:|:---:|
+|[Hoth Battlefield](IA_Half-Res_Skirmish_Maps/FourPlayer_01-halfres.jpg)|Return to Hoth|2017-09-01|[&rarr;](IA_300_DPI_Skirmish_Maps/FourPlayer_01.jpg)|
+|[Nal Hutta Borderlands](IA_Half-Res_Skirmish_Maps/FourPlayer_02-halfres.jpg)|Jabba's Realm|2017-09-01|(Note non-standard height) [&rarr;](IA_300_DPI_Skirmish_Maps/FourPlayer_02.jpg)|
+
 
 ### Printing
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
