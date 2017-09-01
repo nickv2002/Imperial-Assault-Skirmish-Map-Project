@@ -67,6 +67,7 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 * Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to PixArtPrinting. To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
 * PixArtPrinting *does* print 300 DPI JPGs (including the groups and single maps hosted here), even though their website asks for PDFs.
+* PixArtPrinting charges by the area of your print but there is a minimum charge that's about equal to 1 or 2 maps, so you might as well order a few at once to save on the cost per map. It's also much cheaper to choose the slowest delivery time on the order page.
 * The JPG files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
 
 ### Background & Colophon
@@ -75,7 +76,7 @@ This project was started by Ibsh and popularized on [this FFG Thread](https://co
 In addition to making high resolution maps, much care has gone into cleaning up these map images. The seams between tiles have been removed, but you’ll also find altered wording for clearer mission rules and some other subtle tweaks that we think improves the maps.
 
 ### Frequently Asked Questions
-* **How can I create some other mix of printable maps?** [Groups for each wave and all the tournament rotations been pre-generated](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets). Otherwise, the source code & files are all available as part of this GitHub project: download the project and edit the Python script to create a group you'd like to print.
+* **How can I create some other mix of printable maps?** [Groups for each wave and all the tournament rotations been pre-generated](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets). Otherwise, the source code & files are all available as part of this GitHub project: download the project and edit the Python script to create a group you'd like to print (Wannabepudge has made a [guide to help](https://community.fantasyflightgames.com/topic/253553-imperial-assault-printable-skirmish-map-project/?do=findComment&comment=2960950)).
 * **Who’s credited for making these maps?** *Jabba's Palace* and maps predating *Jabba’s Realm* were made by Ibsh. The few other were made by Nick with help from Ibsh’s original scans and tile-retouching from Stephan, EvadGonzo, and Oslatir.
 * **I found an mistake in the maps.** Please double check with the rules and original map insert. After confirming, please [Create an Issue](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/issues/new) on GitHub or let Nick know at the contact info below.
 * **How can I help** If you're good with image-editing, please get in touch before you create anything so we can share resources and avoid duplicating work accidentally. We'll need lots of help to get out the *Heart of the Empire* maps once they're released and there's lots to do to improve the quality of existing tile scans.
