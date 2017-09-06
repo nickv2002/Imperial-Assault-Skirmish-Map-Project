@@ -1,4 +1,4 @@
-* Print `FourPlayer.jpg` at 30.533 inches wide by 49.32 inches tall (77.555 by 125.273 cm)
+* Print `FourPlayer.jpg` at 49.32 inches wide by 30.533 inches tall (125.273 by 77.555 cm)
 
 #### Notes
 * You'll need to cut out some spare (white) banner space on this one.
