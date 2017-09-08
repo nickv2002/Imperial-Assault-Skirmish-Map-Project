@@ -1,4 +1,4 @@
-* Print `JabbasRealm.jpg` at 105.0 inches wide by 24.0 inches tall (266.7 by 60.96 cm)
+* Print `JabbasRealm.jpg` at 104.156666667 inches wide by 24.0 inches tall (264.557933333 by 60.96 cm)
 
 #### Notes
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)

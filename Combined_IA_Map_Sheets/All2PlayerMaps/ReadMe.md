@@ -1,7 +1,7 @@
 * Print `All2PlayerMaps_1.jpg` at 175.0 inches wide by 24.0 inches tall (444.5 by 60.96 cm)
 * Print `All2PlayerMaps_2.jpg` at 169.0 inches wide by 24.0 inches tall (429.26 by 60.96 cm)
 * Print `All2PlayerMaps_3.jpg` at 171.0 inches wide by 24.0 inches tall (434.34 by 60.96 cm)
-* Print `All2PlayerMaps_4.jpg` at 211.0 inches wide by 24.0 inches tall (535.94 by 60.96 cm)
+* Print `All2PlayerMaps_4.jpg` at 209.076666667 inches wide by 24.0 inches tall (531.054733333 by 60.96 cm)
 
 #### Notes
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
