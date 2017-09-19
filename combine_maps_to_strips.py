@@ -105,3 +105,8 @@ for ithGroup in mapDict:
 
     # for testing
     # break
+
+# useful ImageMagic commands
+# for i in `ls -d *.jpg`;do echo $i; identify -format "%y" $i; echo; done
+# convert -units PixelsPerInch FourPlayer.jpg -density 300 300.FourPlayer.jpg
+# identify -format "%w x %h %x x %y" image300.jpg
