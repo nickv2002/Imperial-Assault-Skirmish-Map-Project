@@ -1,0 +1,214 @@
+{
+  "maps": [
+    {
+      "name": "Mos Eisley Outskirts",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/01-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/01.jpg"
+    },
+    {
+      "name": "Moisture Farm",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/02-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/02.jpg"
+    },
+    {
+      "name": "Massassi Ruins",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/03-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/03.jpg"
+    },
+    {
+      "name": "Corellian Underground",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/04-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/04.jpg"
+    },
+    {
+      "name": "Imperial Labour Camp",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/05-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/05.jpg"
+    },
+    {
+      "name": "Geonosis Foundry",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/06-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/06.jpg"
+    },
+    {
+      "name": "Endor Wilderness",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/07-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/07.jpg"
+    },
+    {
+      "name": "Imperial Research Lab",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/08-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/08.jpg"
+    },
+    {
+      "name": "Kuat Space Station",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/09-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/09.jpg"
+    },
+    {
+      "name": "Ord Mantell Junkyard",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/10-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/10.jpg"
+    },
+    {
+      "name": "Mos Eisley Cantina",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/11-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/11.jpg"
+    },
+    {
+      "name": "Wasteland Outpost",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/12-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/12.jpg"
+    },
+    {
+      "name": "Tython Meditation Field",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/13-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/13.jpg"
+    },
+    {
+      "name": "Imperial Space Station",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/14-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/14.jpg"
+    },
+    {
+      "name": "Training Ground",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/15-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/15.jpg"
+    },
+    {
+      "name": "Development Facility",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/16-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/16.jpg"
+    },
+    {
+      "name": "Sewars of Nar Shaddaa",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/17-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/17.jpg"
+    },
+    {
+      "name": "Echo Base",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/18-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/18.jpg"
+    },
+    {
+      "name": "Nelvaanian Warzone",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/19-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/19.jpg"
+    },
+    {
+      "name": "Hoth Weather Shelter",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/20-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/20.jpg"
+    },
+    {
+      "name": "Climate Research Camp",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/21-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/21.jpg"
+    },
+    {
+      "name": "Hoth Battle Station",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/22-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/22.jpg"
+    },
+    {
+      "name": "Imperial Command Hub",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/23-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/23.jpg"
+    },
+    {
+      "name": "Coruscant Landfill",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/24-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/24.jpg"
+    },
+    {
+      "name": "Bespin Tibanna Facility",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/25-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/25.jpg"
+    },
+    {
+      "name": "Lothal Safehouse",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/26-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/26.jpg"
+    },
+    {
+      "name": "ISB Headquarters",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/27-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/27.jpg"
+    },
+    {
+      "name": "ISB Training Grounds",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/28-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/28.jpg"
+    },
+    {
+      "name": "Wasskah Hunting Ground",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/29-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/29.jpg"
+    },
+    {
+      "name": "Kashyyyk Station",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/30-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/30.jpg"
+    },
+    {
+      "name": "Hangar Bay",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/31-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/31.jpg"
+    },
+    {
+      "name": "Anchorhead Cantina",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/32-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/32.jpg"
+    },
+    {
+      "name": "The Pit of Carkoon",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/33-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/33.jpg"
+    },
+    {
+      "name": "The Dune Sea",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/34-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/34.jpg"
+    },
+    {
+      "name": "Nal Hutta Swamps",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/35-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/35.jpg"
+    },
+    {
+      "name": "Endor Defense Station",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/36-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/36.jpg"
+    },
+    {
+      "name": "Jabba's Palace",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/37-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/37.jpg"
+    },
+    {
+      "name": "Tarkin Initiative Labs",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/38-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/38.jpg"
+    },
+    {
+      "name": "Mos Eisley Back Alleys",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/39-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/39.jpg"
+    },
+    {
+      "name": "Chopper Base Atollon",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/40-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/40.jpg"
+    },
+    {
+      "name": "Four Player Hoth Battlefield",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_01-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_01.jpg"
+    },
+    {
+      "name": "Four Player Nal Hutta Borderlands",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_02-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_02.jpg"
+    }    
+  ]
+}
