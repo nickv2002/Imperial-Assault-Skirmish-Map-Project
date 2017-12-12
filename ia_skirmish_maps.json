@@ -201,6 +201,11 @@
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/40.jpg"
     },
     {
+      "name": "Uscru Entertainment District",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/42-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/42.jpg"
+    },
+    {
       "name": "Four Player Hoth Battlefield",
       "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_01-halfres.jpg",
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_01.jpg"
@@ -209,6 +214,6 @@
       "name": "Four Player Nal Hutta Borderlands",
       "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_02-halfres.jpg",
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_02.jpg"
-    }    
+    }
   ]
 }
