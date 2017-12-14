@@ -63,7 +63,7 @@
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
 ![playmat photo](web_images/map-sample.jpg)
 
-* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationAnchorheadJabbaNalHutta) (*Anchorhead Cantina*, *Jabba's Palace*, & *Nal Hutta Swamps*).
+* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationJabbaNalHuttaMosEisley) (*Jabba's Palace*, *Nal Hutta Swamps*, & *Mos Eisley Back Alleys*).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to PixArtPrinting. To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
@@ -78,9 +78,9 @@ In addition to making high resolution maps, much care has gone into cleaning up 
 
 ### Frequently Asked Questions
 * **How can I create some other mix of printable maps?** [Groups for each wave and all the tournament rotations been pre-generated](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets). Otherwise, the source code & files are all available as part of this GitHub project: download the project and edit the Python script to create a group you'd like to print (Wannabepudge has made a [guide to help](https://community.fantasyflightgames.com/topic/253553-imperial-assault-printable-skirmish-map-project/?do=findComment&comment=2960950)).
-* **Who’s credited for making these maps?** *Jabba's Palace* and maps predating *Jabba’s Realm* were made by Ibsh. The few other were made by Nick with help from Ibsh’s original scans and tile-retouching from Stephan, EvadGonzo, and Oslatir.
+* **Who’s credited for making these maps?** *Jabba's Palace* and maps predating *Jabba’s Realm* were made by Ibsh. Other were made by Nick by combining scans from Ibsh’s & Leacher with tile-retouching from Stephan, EvadGonzo, Oslatir, and Paul Windram.
 * **I found an mistake in the maps.** Please double check with the rules and original map insert. After confirming, please [Create an Issue](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/issues/new) on GitHub or let Nick know at the contact info below.
-* **How can I help** If you're good with image-editing, please get in touch before you create anything so we can share resources and avoid duplicating work accidentally. We'll need lots of help to get out the *Heart of the Empire* maps once they're released and there's lots to do to improve the quality of existing tile scans.
+* **How can I help** If you're good with image-editing, please get in touch before you create anything so we can share resources and avoid duplicating work accidentally. We'll need lots of help to finish the rest of the *Heart of the Empire* maps and there's lots to do to improve the quality of existing tile scans.
 
 ### Contact Info
 For questions about the maps or printing please create an issue ticket here or contact Nick ([FFG Forums](https://community.fantasyflightgames.com/profile/260007-nickv2002/), [Twitter](https://twitter.com/ianeworders), or nickv2002 on the [BoardWars Discord](http://discord.me/bweu)). For questions about the BoardWars Image Database please [contact Stephan](http://boardwars.eu/about/).
