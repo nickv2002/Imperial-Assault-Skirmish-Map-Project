@@ -206,6 +206,11 @@
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/42.jpg"
     },
     {
+      "name": "Coruscant Senate Office",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/44-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/44.jpg"
+    },
+    {
       "name": "Four Player Hoth Battlefield",
       "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_01-halfres.jpg",
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_01.jpg"
