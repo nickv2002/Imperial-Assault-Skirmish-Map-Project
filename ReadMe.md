@@ -51,6 +51,7 @@
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/39.jpg)|
 |[Chopper Base Atollon](IA_Half-Res_Skirmish_Maps/40-halfres.jpg)|Hera Syndulla and C1-10P Ally Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/40.jpg)|
 |[Uscru Entertainment District](IA_Half-Res_Skirmish_Maps/42-halfres.jpg)|Ahsoka Tano, Rebel Instigator Ally Pack|2017-12-12|[&rarr;](IA_300_DPI_Skirmish_Maps/42.jpg)|
+|[Coruscant Senate Office](IA_Half-Res_Skirmish_Maps/44-halfres.jpg)|Emperor Palpatine, Sith Master Villain Pack|2018-01-16|[&rarr;](IA_300_DPI_Skirmish_Maps/44.jpg)|
 
 #### Four-Player Maps
 | Map (Web Version Link) |Product| Updated |Print Version|
