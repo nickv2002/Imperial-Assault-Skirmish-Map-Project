@@ -36,7 +36,7 @@ mapDict = {
     'JabbasRealm':                         [33,34,35,36,37],
     'ReinforcementWave4Droids':            [38,39,40],
     'HeartOfTheEmpire':                    [42,44],
-    # 'TournamentRotationJabbaNalHuttaMosEisley': [37,35,39],
+    'TournamentRotationJabbaNalHuttaMosEisley': [37,35,39],
      }
 
 # build the all map group from all numbers listed above
@@ -51,7 +51,7 @@ mapDict['All2PlayerMaps'] = sorted(allMapsNums)
 maxMapsInGroup = 6
 for ithGroup in mapDict:
     # for just updating the All2PlayerMaps group:
-    if ithGroup != 'All2PlayerMaps': continue
+    # if ithGroup != 'All2PlayerMaps': continue
 
     listOfMapsInGroup = mapDict[ithGroup]
     multipleSheetsInGroup  = len(listOfMapsInGroup) > maxMapsInGroup
