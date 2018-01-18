@@ -35,7 +35,8 @@ mapDict = {
     'ReinforcementWave3ObiGreedoGI':       [30,31,32],
     'JabbasRealm':                         [33,34,35,36,37],
     'ReinforcementWave4Droids':            [38,39,40],
-    'TournamenRotationAnchorheadJabbaNalHutta': [30,37,35],
+    'HeartOfTheEmpire':                    [42,44],
+    # 'TournamentRotationJabbaNalHuttaMosEisley': [37,35,39],
      }
 
 # build the all map group from all numbers listed above
@@ -47,10 +48,10 @@ for ithGroup in mapDict:
         allMapsNums.add( int(mapInt) )
 mapDict['All2PlayerMaps'] = sorted(allMapsNums)
 
-maxMapsInGroup = 10
+maxMapsInGroup = 6
 for ithGroup in mapDict:
     # for just updating the All2PlayerMaps group:
-    # if ithGroup != 'All2PlayerMaps': continue
+    if ithGroup != 'All2PlayerMaps': continue
 
     listOfMapsInGroup = mapDict[ithGroup]
     multipleSheetsInGroup  = len(listOfMapsInGroup) > maxMapsInGroup
@@ -75,7 +76,8 @@ for ithGroup in mapDict:
         widths, heights = zip(*(i.size for i in images))
         total_width   = sum(widths)
         max_height    = max(heights)
-        assert max_height == 7200, 'ERROR map height dimiensions are not what we expected: %s' % max_height
+        assert total_width <= 108*300, 'ERROR: Printi max is 108 inches, but this section would be %s inches' % (total_width/300.0)
+        assert max_height == 7200, 'ERROR: map height dimiensions are not what we expected: %s' % max_height
 
         # add 2 pixels of white between each map to help with cutting them apart
         combined_size = (total_width - 2 + len(listOfMapNumsToCombine) * 2, max_height)
