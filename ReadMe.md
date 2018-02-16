@@ -64,7 +64,7 @@
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
 ![playmat photo](web_images/map-sample.jpg)
 
-* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamenRotationJabbaNalHuttaMosEisley) (*Jabba's Palace*, *Nal Hutta Swamps*, & *Mos Eisley Back Alleys*).
+* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamentRotationJabbaNalHuttaMosEisley) (*Jabba's Palace*, *Nal Hutta Swamps*, & *Mos Eisley Back Alleys*).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to PixArtPrinting. To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
 * Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
