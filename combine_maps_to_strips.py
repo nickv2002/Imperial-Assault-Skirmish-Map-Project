@@ -49,11 +49,11 @@ for ithGroup in mapDict:
         assert ithHeight/300. == 24.0, "\nERROR: unexpected map height of %s inches for %s" % (ithHeight/300, mapFilename)
         assert ithWidth > 4000, "\nERROR: very narrow map(?): %s" % mapFilename
         mapDictWidths[mapInt] = ithWidth
-# mapDict['All2PlayerMaps'] = sorted(allMapsNums)
+mapDict['All2PlayerMaps'] = sorted(allMapsNums)
 
 for ithGroup in mapDict:
     # for just updating the All2PlayerMaps group:
-    # if ithGroup != 'All2PlayerMaps': continue
+    if ithGroup != 'All2PlayerMaps': continue
 
     listOfMapsInGroup = mapDict[ithGroup]
     print "Working on: %s with %i maps" % (ithGroup, len(listOfMapsInGroup))
