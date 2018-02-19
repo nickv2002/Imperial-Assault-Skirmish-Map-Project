@@ -66,14 +66,13 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 
 * **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamentRotationJabbaNalHuttaMosEisley) (*Jabba's Palace*, *Nal Hutta Swamps*, & *Mos Eisley Back Alleys*).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
-* Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to PixArtPrinting. To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
-* Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
-* PixArtPrinting *does* print 300 DPI JPGs (including the groups and single maps hosted here), even though their website asks for PDFs.
-* PixArtPrinting charges by the area of your print but there is a minimum charge that's about equal to 1 or 2 maps, so you might as well order a few at once to save on the cost per map. It's also much cheaper to choose the slowest delivery time on the order page.
-* The JPG files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
+* Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to Printi (after converting to PDF). To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
+* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)
+* Printi charges by the area of your print but there is a minimum charge that's about equal to 1 or 2 maps, so you might as well order a few at once to save on the cost per map. It's also much cheaper to choose the slowest delivery time on the order page.
+* The JPG & PDF files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
 
 ### Background & Colophon
-This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/). Stephan and EvadGonzo has also provided valuable help with image retouching on several map tiles from Jabba's Realm.
+This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/).
 
 In addition to making high resolution maps, much care has gone into cleaning up these map images. The seams between tiles have been removed, but you’ll also find altered wording for clearer mission rules and some other subtle tweaks that we think improves the maps.
 
@@ -84,4 +83,4 @@ In addition to making high resolution maps, much care has gone into cleaning up 
 * **How can I help** If you're good with image-editing, please get in touch before you create anything so we can share resources and avoid duplicating work accidentally. We'll need lots of help to finish the rest of the *Heart of the Empire* maps and there's lots to do to improve the quality of existing tile scans.
 
 ### Contact Info
-For questions about the maps or printing please create an issue ticket here or contact Nick ([FFG Forums](https://community.fantasyflightgames.com/profile/260007-nickv2002/), [Twitter](https://twitter.com/ianeworders), or nickv2002 on the [BoardWars Discord](http://discord.me/bweu)). For questions about the BoardWars Image Database please [contact Stephan](http://boardwars.eu/about/).
+For questions about the maps or printing please create an issue ticket here or contact Nick ([FFG Forums](https://community.fantasyflightgames.com/profile/260007-nickv2002/), or nickv2002 on the [BoardWars Discord](http://discord.me/bweu)). For questions about the BoardWars Image Database please [contact Stephan](http://boardwars.eu/about/).
