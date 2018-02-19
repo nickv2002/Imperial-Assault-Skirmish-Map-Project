@@ -1,16 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Convert 300 DPI Maps to JPGs strips for printing on PixArtPrinting
+# Convert 300 DPI Maps to PDF strips for printing
 # Requires Python 2.7.X and PIL or Pillow image processing libraries
 
 import sys, os
 from PIL import Image
-
-def chunks(l, n):
-    """Yield successive n-sized chunks from l."""
-    for i in range(0, len(l), n):
-        yield l[i:i+n]
 
 def mkdir_p(path):
     import errno
@@ -21,58 +16,97 @@ def mkdir_p(path):
             pass
         else: raise
 
+# build a dictionary of all groups of maps to print
+mapDict = {
+    'Core':                                     [1,2,3,4,5,6,7,8,9,10],
+    'TwinShadows':                              [11,12,13,14],
+    'ReinforcementWave1WookiesHiredGuns':       [15,16,17],
+    'ReturnToHoth':                             [18,19,20,21,22],
+    'ReinforcementWave2BanthaSmuggler':         [23,24],
+    'BespinGambit':                             [25,26,27,28,29],
+    'ReinforcementWave3ObiGreedoGI':            [30,31,32],
+    'JabbasRealm':                              [33,34,35,36,37],
+    'ReinforcementWave4Droids':                 [38,39,40],
+    'HeartOfTheEmpire':                         [42,44],
+    'TournamentRotationJabbaNalHuttaMosEisley': [37,35,39],
+     }
+mapDictWidths = {} # we'll fill this later
+
 # output directory
 outputDir = "Combined_IA_Map_Sheets"
 
-# build a dictionary of all groups of maps to print
-mapDict = {
-    'Core':                                [1,2,3,4,5,6,7,8,9,10],
-    'TwinShadows':                         [11,12,13,14],
-    'ReinforcementWave1WookiesHiredGuns':  [15,16,17],
-    'ReturnToHoth':                        [18,19,20,21,22],
-    'ReinforcementWave2BanthaSmuggler':    [23,24],
-    'BespinGambit':                        [25,26,27,28,29],
-    'ReinforcementWave3ObiGreedoGI':       [30,31,32],
-    'JabbasRealm':                         [33,34,35,36,37],
-    'ReinforcementWave4Droids':            [38,39,40],
-    'HeartOfTheEmpire':                    [42,44],
-    'TournamentRotationJabbaNalHuttaMosEisley': [37,35,39],
-     }
+maxWidthInches = 108 # maxWidth of a strip in inches (based on Printi limits)
+maxWidthPixels = maxWidthInches * 300.0 # assuming 300 DPI
 
-# build the all map group from all numbers listed above
+# build the all map group from all numbers listed above, and index our pixel widths
 allMapsNums = set()
 for ithGroup in mapDict:
     for mapInt in mapDict[ithGroup]:
         mapFilename = os.path.join('IA_300_DPI_Skirmish_Maps', '%02i.jpg' % mapInt)
         assert os.path.isfile(mapFilename), "\nERROR: missing map: %s" % mapFilename
         allMapsNums.add( int(mapInt) )
-mapDict['All2PlayerMaps'] = sorted(allMapsNums)
+        ithWidth, ithHeight = Image.open(mapFilename).size
+        assert ithHeight/300. == 24.0, "\nERROR: unexpected map height of %s inches for %s" % (ithHeight/300, mapFilename)
+        assert ithWidth > 4000, "\nERROR: very narrow map(?): %s" % mapFilename
+        mapDictWidths[mapInt] = ithWidth
+# mapDict['All2PlayerMaps'] = sorted(allMapsNums)
 
-maxMapsInGroup = 6
 for ithGroup in mapDict:
     # for just updating the All2PlayerMaps group:
     # if ithGroup != 'All2PlayerMaps': continue
 
     listOfMapsInGroup = mapDict[ithGroup]
-    multipleSheetsInGroup  = len(listOfMapsInGroup) > maxMapsInGroup
-    fileNumberIter         = 1
+    print "Working on: %s with %i maps" % (ithGroup, len(listOfMapsInGroup))
+    # make the output directory
     mkdir_p(os.path.join(outputDir, ithGroup))
 
-    metadataList = []
-    for listOfMapNumsToCombine in chunks(listOfMapsInGroup, maxMapsInGroup):
-        if multipleSheetsInGroup:
-            jpgFile = '%s_%i.jpg' % (ithGroup, fileNumberIter)
-        else:
-            jpgFile = '%s.jpg' % ithGroup
-        jpgFile = os.path.join(outputDir, ithGroup, jpgFile)
-        print "Creating:", jpgFile
+    # Set up some variables for this loop
+    placedList                    = []
+    mapIntIter                    = 99999999 # to hit exception at start of while loop
+    listOfGroupToCombineFor1Sheet = []
+    doFirstGroupCreation          = False # to skip saving at intial exception
 
-        sourceList = []
-        for mapInt in listOfMapNumsToCombine:
-            sourceList.append(os.path.join('IA_300_DPI_Skirmish_Maps', '%02i.jpg' % mapInt))
+    while len(placedList) < len(listOfMapsInGroup):
+        try: # to match the iter with the map number
+            mapInt = listOfMapsInGroup[mapIntIter]
+        except IndexError: # we iterated too high, save the group we just made, then restart a new sheet
+            if doFirstGroupCreation:
+                # print "created sheet", groupToCombineFor1Sheet
+                listOfGroupToCombineFor1Sheet.append(groupToCombineFor1Sheet)
+            doFirstGroupCreation    = True
+            groupToCombineFor1Sheet = []
+            widthPixelsCnt          = 0
+            mapIntIter              = 0
+            mapInt                  = listOfMapsInGroup[mapIntIter]
+
+        if mapInt in placedList: # already placed, iterate higher
+            pass
+        elif widthPixelsCnt + mapDictWidths[mapInt] < maxWidthPixels: #placeable
+            widthPixelsCnt += mapDictWidths[mapInt]
+            # print "Place map # %i" % mapInt
+            placedList.append(mapInt)
+            groupToCombineFor1Sheet.append(mapInt)
+        mapIntIter += 1
+    # we need to create the last sheet (this may also be the first sheet for small groups)
+    listOfGroupToCombineFor1Sheet.append(groupToCombineFor1Sheet)
+
+    # print "Grouped the following maps together:", listOfGroupToCombineFor1Sheet
+
+    # Set up some variables for this loop
+    metadataList   = []
+    fileNumberIter = 1
+
+    for groupToCombineFor1Sheet in listOfGroupToCombineFor1Sheet:
+        sourceJPGfilenamesList = []
+        for mapInt in groupToCombineFor1Sheet:
+            sourceJPGfilenamesList.append(os.path.join('IA_300_DPI_Skirmish_Maps', '%02i.jpg' % mapInt))
+
+        outputFile = os.path.join(outputDir, ithGroup, '%s_%i.pdf' % (ithGroup, fileNumberIter))
+        print "Creating:", outputFile
+        fileNumberIter += 1 # for next group
 
         # combine images:
-        images = map(Image.open, sourceList)
+        images = map(Image.open, sourceJPGfilenamesList)
         widths, heights = zip(*(i.size for i in images))
         total_width   = sum(widths)
         max_height    = max(heights)
@@ -80,30 +114,26 @@ for ithGroup in mapDict:
         assert max_height == 7200, 'ERROR: map height dimiensions are not what we expected: %s' % max_height
 
         # add 2 pixels of white between each map to help with cutting them apart
-        combined_size = (total_width - 2 + len(listOfMapNumsToCombine) * 2, max_height)
+        combined_size = (total_width - 2 + len(sourceJPGfilenamesList) * 2, max_height)
         combined_im = Image.new('RGB', combined_size, color = (255,255,255))
         x_offset = 0
         for im in images:
             combined_im.paste(im, (x_offset, 0))
             x_offset += im.size[0] + 2 #add 2 pixels for division
 
-        # Save new image as a JPG
-        combined_im.save( jpgFile, dpi=[300,300] )
+        # Save new image as a PDF
+        combined_im.save( outputFile, dpi=[300,300], quality = 85, resolution = 300.)
 
         # Save metadata tupal
-        metadataList.append( (os.path.split(jpgFile)[1], total_width/300.0, max_height/300.0, total_width/300.0*2.54, max_height/300.0*2.54) )
-
-        # for next group
-        fileNumberIter += 1
+        metadataList.append( (os.path.split(outputFile)[1], total_width/300., max_height/300., total_width/300.*2.54, max_height/300.*2.54) )
 
     with open(os.path.join(outputDir, ithGroup, 'ReadMe.md'), "w") as TF:
         for mdT in metadataList:
             TF.write('* Print `%s` at %s inches wide by %s inches tall (%s by %s cm)\n' % mdT)
         TF.write('\n#### Notes\n')
-        TF.write('* Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)\n')
-        TF.write('* PixArtPrinting *does* print 300 DPI JPGs (created with this script) in addition to PDFs, even though they ask for PDFs initially.\n')
-        TF.write('* The JPG files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer\n')
-        TF.write('* Questions? See [Boardwars](http://boardwars.eu/ia-maps/) and [New Orders](https://neworders.xyz/imperial-assault-skirmish-map-project/)\n')
+        TF.write('* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)\n')
+        TF.write('* The PDF files are very large so some people have trouble seeing them on their computer. Give them some time to display if you have an older computer\n')
+        TF.write('* Questions? See the [GitHub project page](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project)')
 
     # for testing
     # break

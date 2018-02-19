@@ -1,7 +1,6 @@
-* Print `ReinforcementWave3ObiGreedoGI.jpg` at 62.0 inches wide by 24.0 inches tall (157.48 by 60.96 cm)
+* Print `ReinforcementWave3ObiGreedoGI_1.pdf` at 62.0 inches wide by 24.0 inches tall (157.48 by 60.96 cm)
 
 #### Notes
-* Recommended shop & product: [PixArtPrinting PVC Banners](https://www.pixartprinting.com/signage/banners-mesh/pvc-banner/)
-* PixArtPrinting *does* print 300 DPI JPGs (created with this script) in addition to PDFs, even though they ask for PDFs initially.
-* The JPG files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer
-* Questions? See [Boardwars](http://boardwars.eu/ia-maps/) and [New Orders](https://neworders.xyz/imperial-assault-skirmish-map-project/)
+* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)
+* The PDF files are very large so some people have trouble seeing them on their computer. Give them some time to display if you have an older computer
+* Questions? See [https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project)
