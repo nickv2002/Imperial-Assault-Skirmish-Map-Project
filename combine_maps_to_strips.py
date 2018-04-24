@@ -28,7 +28,7 @@ mapDict = {
     'JabbasRealm':                              [33,34,35,36,37],
     'ReinforcementWave4Droids':                 [38,39,40],
     'HeartOfTheEmpire':                         [42,44],
-    'TournamentRotationJabbaNalHuttaMosEisley': [37,35,39],
+    'TournamentRotationNalHuttaMosEisleyUscru': [35,39,42],
      }
 mapDictWidths = {} # we'll fill this later
 
@@ -53,7 +53,7 @@ mapDict['All2PlayerMaps'] = sorted(allMapsNums)
 
 for ithGroup in mapDict:
     # for just updating the All2PlayerMaps group:
-    if ithGroup != 'All2PlayerMaps': continue
+    # if ithGroup != 'All2PlayerMaps': continue
 
     listOfMapsInGroup = mapDict[ithGroup]
     print "Working on: %s with %i maps" % (ithGroup, len(listOfMapsInGroup))
