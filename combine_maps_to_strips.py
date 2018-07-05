@@ -27,7 +27,7 @@ mapDict = {
     'ReinforcementWave3ObiGreedoGI':            [30,31,32],
     'JabbasRealm':                              [33,34,35,36,37],
     'ReinforcementWave4Droids':                 [38,39,40],
-    'HeartOfTheEmpire':                         [42,44],
+    'HeartOfTheEmpire':                         [41,42,43,44],
     'TournamentRotationNalHuttaMosEisleyUscru': [35,39,42],
      }
 mapDictWidths = {} # we'll fill this later

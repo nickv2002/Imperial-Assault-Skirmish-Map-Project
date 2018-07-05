@@ -50,9 +50,9 @@
 |[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/38.jpg)|
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/39.jpg)|
 |[Chopper Base Atollon](IA_Half-Res_Skirmish_Maps/40-halfres.jpg)|Hera Syndulla and C1-10P Ally Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/40.jpg)|
-|30th Floor Plaza|Heart of the Empire|-|Not yet available|
+|[30th Floor Plaza](IA_Half-Res_Skirmish_Maps/41-halfres.jpg)|Heart of the Empire|2018-07-05|[&rarr;](IA_300_DPI_Skirmish_Maps/41.jpg)|
 |[Uscru Entertainment District](IA_Half-Res_Skirmish_Maps/42-halfres.jpg)|Ahsoka Tano, Rebel Instigator Ally Pack|2017-12-12|[&rarr;](IA_300_DPI_Skirmish_Maps/42.jpg)|
-|Coruscant Back Alleys|Maul, Seeker of Vengeance|-|Not yet available|
+|[Coruscant Back Alleys](IA_Half-Res_Skirmish_Maps/43-halfres.jpg)|Maul, Seeker of Vengeance|2018-07-05|[&rarr;](IA_300_DPI_Skirmish_Maps/43.jpg)|
 |[Coruscant Senate Office](IA_Half-Res_Skirmish_Maps/44-halfres.jpg)|Emperor Palpatine, Sith Master Villain Pack|2018-01-16|[&rarr;](IA_300_DPI_Skirmish_Maps/44.jpg)|
 
 #### Four-Player Maps
