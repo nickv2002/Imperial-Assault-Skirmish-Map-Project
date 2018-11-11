@@ -71,7 +71,7 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 * **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamentRotationMosEisleyUscruTarkin) (*Mos Eisley Back Alleys*, *Uscru Entertainment District*, & *Tarkin Initiative Labs*).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to Printi (after converting to PDF). To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
-* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)
+* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-pvc-banners)
 * Printi charges by the area of your print but there is a minimum charge that's about equal to 1 or 2 maps, so you might as well order a few at once to save on the cost per map. It's also much cheaper to choose the slowest delivery time on the order page.
 * The JPG & PDF files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
 
