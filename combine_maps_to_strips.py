@@ -18,17 +18,18 @@ def mkdir_p(path):
 
 # build a dictionary of all groups of maps to print
 mapDict = {
-    'Core':                                     [1,2,3,4,5,6,7,8,9,10],
-    'TwinShadows':                              [11,12,13,14],
-    'ReinforcementWave1WookiesHiredGuns':       [15,16,17],
-    'ReturnToHoth':                             [18,19,20,21,22],
-    'ReinforcementWave2BanthaSmuggler':         [23,24],
-    'BespinGambit':                             [25,26,27,28,29],
-    'ReinforcementWave3ObiGreedoGI':            [30,31,32],
-    'JabbasRealm':                              [33,34,35,36,37],
-    'ReinforcementWave4Droids':                 [38,39,40],
-    'HeartOfTheEmpire':                         [41,42,43,44],
-    'TournamentRotationMosEisleyUscruTarkin':   [39,42,38],
+    'Core':                                  [1,2,3,4,5,6,7,8,9,10],
+    'TwinShadows':                           [11,12,13,14],
+    'ReinforcementWave1WookiesHiredGuns':    [15,16,17],
+    'ReturnToHoth':                          [18,19,20,21,22],
+    'ReinforcementWave2BanthaSmuggler':      [23,24],
+    'BespinGambit':                          [25,26,27,28,29],
+    'ReinforcementWave3ObiGreedoGI':         [30,31,32],
+    'JabbasRealm':                           [33,34,35,36,37],
+    'ReinforcementWave4Droids':              [38,39,40],
+    'HeartOfTheEmpire':                      [41,42,43,44],
+    'TyrantsOfLothal':                       [45],
+    'TournamentRotationUscruTarkinLothal':   [39,42,38],
      }
 mapDictWidths = {} # we'll fill this later
 
