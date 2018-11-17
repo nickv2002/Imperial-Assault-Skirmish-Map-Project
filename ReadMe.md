@@ -54,7 +54,11 @@
 |[Uscru Entertainment District](IA_Half-Res_Skirmish_Maps/42-halfres.jpg)|Ahsoka Tano, Rebel Instigator Ally Pack|2017-12-12|[&rarr;](IA_300_DPI_Skirmish_Maps/42.jpg)|
 |[Coruscant Back Alleys](IA_Half-Res_Skirmish_Maps/43-halfres.jpg)|Maul, Seeker of Vengeance|2018-07-05|[&rarr;](IA_300_DPI_Skirmish_Maps/43.jpg)|
 |[Coruscant Senate Office](IA_Half-Res_Skirmish_Maps/44-halfres.jpg)|Emperor Palpatine, Sith Master Villain Pack|2018-01-16|[&rarr;](IA_300_DPI_Skirmish_Maps/44.jpg)|
-|[Lothal Wastes](IA_Half-Res_Skirmish_Maps/45-halfres.jpg)|Tyrants of Lothal|2018-11-11|[&rarr;](IA_300_DPI_Skirmish_Maps/45.jpg)|
+|[Lothal Wastes](IA_Half-Res_Skirmish_Maps/45-halfres.jpg)|Tyrants of Lothal|2018-11-17|[&rarr;](IA_300_DPI_Skirmish_Maps/45.jpg)|
+|[Lothal Battlefront](IA_Half-Res_Skirmish_Maps/46-halfres.jpg)|Ezra Bridger & Kanan Jarrus|2018-11-17|[&rarr;](IA_300_DPI_Skirmish_Maps/46.jpg)|
+|Devaron Garrison|Sabine Wren & Zeb Orrelios|-|Not Yet Available|
+|Lothal Spaceport|Hondo Ohnaka, Friend for Hire|-|Not Yet Available|
+|Imperial Tower|Thrawn, Grand Admiral|-|Not Yet Available|
 
 #### Four-Player Maps
 | Map (Web Version Link) |Product| Updated |Print Version|
