@@ -57,7 +57,7 @@
 |[Lothal Wastes](IA_Half-Res_Skirmish_Maps/45-halfres.jpg)|Tyrants of Lothal|2018-11-17|[&rarr;](IA_300_DPI_Skirmish_Maps/45.jpg)|
 |[Lothal Battlefront](IA_Half-Res_Skirmish_Maps/46-halfres.jpg)|Ezra Bridger & Kanan Jarrus|2018-11-17|[&rarr;](IA_300_DPI_Skirmish_Maps/46.jpg)|
 |Devaron Garrison|Sabine Wren & Zeb Orrelios|-|Not Yet Available|
-|Lothal Spaceport|Hondo Ohnaka, Friend for Hire|-|Not Yet Available|
+|[Lothal Spaceport](IA_Half-Res_Skirmish_Maps/48-halfres.jpg)|Hondo Ohnaka, Friend for Hire|2018-11-24|[&rarr;](IA_300_DPI_Skirmish_Maps/48.jpg)|
 |Imperial Tower|Thrawn, Grand Admiral|-|Not Yet Available|
 
 #### Four-Player Maps
@@ -72,7 +72,7 @@
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
 ![playmat photo](web_images/map-sample.jpg)
 
-* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamentRotationMosEisleyUscruTarkin) (*Mos Eisley Back Alleys*, *Uscru Entertainment District*, & *Tarkin Initiative Labs*).
+* **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamentRotationUscruTarkinLothal) (*Uscru Entertainment District*, *Tarkin Initiative Labs*, & *Lothal Wastes*).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to Printi (after converting to PDF). To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
 * Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-pvc-banners)

@@ -28,8 +28,8 @@ mapDict = {
     'JabbasRealm':                           [33,34,35,36,37],
     'ReinforcementWave4Droids':              [38,39,40],
     'HeartOfTheEmpire':                      [41,42,43,44],
-    'TyrantsOfLothal':                       [45,46],
-    'TournamentRotationUscruTarkinLothal':   [39,42,38],
+    'TyrantsOfLothal':                       [45,46,48],
+    'TournamentRotationUscruTarkinLothal':   [42,38,45],
      }
 mapDictWidths = {} # we'll fill this later
 
