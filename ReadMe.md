@@ -56,7 +56,7 @@
 |[Coruscant Senate Office](IA_Half-Res_Skirmish_Maps/44-halfres.jpg)|Emperor Palpatine, Sith Master Villain Pack|2018-01-16|[&rarr;](IA_300_DPI_Skirmish_Maps/44.jpg)|
 |[Lothal Wastes](IA_Half-Res_Skirmish_Maps/45-halfres.jpg)|Tyrants of Lothal|2018-11-17|[&rarr;](IA_300_DPI_Skirmish_Maps/45.jpg)|
 |[Lothal Battlefront](IA_Half-Res_Skirmish_Maps/46-halfres.jpg)|Ezra Bridger & Kanan Jarrus|2018-11-17|[&rarr;](IA_300_DPI_Skirmish_Maps/46.jpg)|
-|Devaron Garrison|Sabine Wren & Zeb Orrelios|-|Not Yet Available|
+|[Devaron Garrison](IA_Half-Res_Skirmish_Maps/47-halfres.jpg)|Sabine Wren & Zeb Orrelios|2018-12-01|[&rarr;](IA_300_DPI_Skirmish_Maps/47.jpg)|
 |[Lothal Spaceport](IA_Half-Res_Skirmish_Maps/48-halfres.jpg)|Hondo Ohnaka, Friend for Hire|2018-11-24|[&rarr;](IA_300_DPI_Skirmish_Maps/48.jpg)|
 |Imperial Tower|Thrawn, Grand Admiral|-|Not Yet Available|
 
