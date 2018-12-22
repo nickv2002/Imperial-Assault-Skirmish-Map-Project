@@ -58,7 +58,7 @@
 |[Lothal Battlefront](IA_Half-Res_Skirmish_Maps/46-halfres.jpg)|Ezra Bridger & Kanan Jarrus|2018-11-17|[&rarr;](IA_300_DPI_Skirmish_Maps/46.jpg)|
 |[Devaron Garrison](IA_Half-Res_Skirmish_Maps/47-halfres.jpg)|Sabine Wren & Zeb Orrelios|2018-12-01|[&rarr;](IA_300_DPI_Skirmish_Maps/47.jpg)|
 |[Lothal Spaceport](IA_Half-Res_Skirmish_Maps/48-halfres.jpg)|Hondo Ohnaka, Friend for Hire|2018-11-24|[&rarr;](IA_300_DPI_Skirmish_Maps/48.jpg)|
-|Imperial Tower|Thrawn, Grand Admiral|-|Not Yet Available|
+|[Imperial Tower](IA_Half-Res_Skirmish_Maps/49-halfres.jpg)|Thrawn, Grand Admiral|2018-12-22|[&rarr;](IA_300_DPI_Skirmish_Maps/49.jpg)|
 
 #### Four-Player Maps
 | Map (Web Version Link) |Product| Updated |Print Version|

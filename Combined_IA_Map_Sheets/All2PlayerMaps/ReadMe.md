@@ -6,7 +6,7 @@
 * Print `All2PlayerMaps_6.pdf` at 107.156666667 inches wide by 24.0 inches tall (272.177933333 by 60.96 cm)
 * Print `All2PlayerMaps_7.pdf` at 101.92 inches wide by 24.0 inches tall (258.8768 by 60.96 cm)
 * Print `All2PlayerMaps_8.pdf` at 105.173333333 inches wide by 24.0 inches tall (267.140266667 by 60.96 cm)
-* Print `All2PlayerMaps_9.pdf` at 35.6666666667 inches wide by 24.0 inches tall (90.5933333333 by 60.96 cm)
+* Print `All2PlayerMaps_9.pdf` at 53.3333333333 inches wide by 24.0 inches tall (135.466666667 by 60.96 cm)
 
 #### Notes
 * Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)

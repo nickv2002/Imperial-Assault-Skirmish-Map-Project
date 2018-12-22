@@ -1,4 +1,4 @@
-* Print `TyrantsOfLothal_1.pdf` at 69.3333333333 inches wide by 24.0 inches tall (176.106666667 by 60.96 cm)
+* Print `TyrantsOfLothal_1.pdf` at 87.0 inches wide by 24.0 inches tall (220.98 by 60.96 cm)
 
 #### Notes
 * Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)
