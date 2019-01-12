@@ -1,4 +1,4 @@
-* Print `TournamentRotationUscruTarkinLothal_1.pdf` at 53.5866666667 inches wide by 24.0 inches tall (136.110133333 by 60.96 cm)
+* Print `TournamentRotationUscruTarkinLothal_1.pdf` at 53.3333333333 inches wide by 24.0 inches tall (135.466666667 by 60.96 cm)
 
 #### Notes
 * Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)
