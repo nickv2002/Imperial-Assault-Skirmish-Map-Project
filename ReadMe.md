@@ -47,7 +47,7 @@
 |[Nal Hutta Swamps](IA_Half-Res_Skirmish_Maps/35-halfres.jpg)|Alliance Rangers Ally Pack|2017-07-26|[&rarr;](IA_300_DPI_Skirmish_Maps/35.jpg) [Pre-Cropped](IA_300_DPI_Skirmish_Maps/35_cropped.jpg)|
 |[Endor Defense Station](IA_Half-Res_Skirmish_Maps/36-halfres.jpg)|Captain Terro Villain Pack|2017-08-09|[&rarr;](IA_300_DPI_Skirmish_Maps/36.jpg)|
 |[Jabba’s Palace](IA_Half-Res_Skirmish_Maps/37-halfres.jpg)|Jabba The Hutt Villain Pack|2017-04-08|[&rarr;](IA_300_DPI_Skirmish_Maps/37.jpg)|
-|[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/38.jpg)|
+|[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2019-01-10|[&rarr;](IA_300_DPI_Skirmish_Maps/38.jpg)|
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/39.jpg)|
 |[Chopper Base Atollon](IA_Half-Res_Skirmish_Maps/40-halfres.jpg)|Hera Syndulla and C1-10P Ally Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/40.jpg)|
 |[30th Floor Plaza](IA_Half-Res_Skirmish_Maps/41-halfres.jpg)|Heart of the Empire|2018-07-05|[&rarr;](IA_300_DPI_Skirmish_Maps/41.jpg)|
@@ -75,7 +75,7 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 * **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamentRotationUscruTarkinLothal) (*Uscru Entertainment District*, *Tarkin Initiative Labs*, & *Lothal Wastes*).
 * There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
 * Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to Printi (after converting to PDF). To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
-* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-pvc-banners)
+* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/pvc-banners)
 * Printi charges by the area of your print but there is a minimum charge that's about equal to 1 or 2 maps, so you might as well order a few at once to save on the cost per map. It's also much cheaper to choose the slowest delivery time on the order page.
 * The JPG & PDF files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
 
