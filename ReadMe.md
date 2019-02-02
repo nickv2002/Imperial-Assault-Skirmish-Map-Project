@@ -49,7 +49,7 @@
 |[Jabba’s Palace](IA_Half-Res_Skirmish_Maps/37-halfres.jpg)|Jabba The Hutt Villain Pack|2017-04-08|[&rarr;](IA_300_DPI_Skirmish_Maps/37.jpg)|
 |[Tarkin Initiative Labs](IA_Half-Res_Skirmish_Maps/38-halfres.jpg)|BT-1 and 0-0-0 Villain Pack|2019-01-10|[&rarr;](IA_300_DPI_Skirmish_Maps/38.jpg)|
 |[Mos Eisley Back Alleys](IA_Half-Res_Skirmish_Maps/39-halfres.jpg)|Jawa Scavenger Villain Pack|2017-07-10|[&rarr;](IA_300_DPI_Skirmish_Maps/39.jpg)|
-|[Chopper Base Atollon](IA_Half-Res_Skirmish_Maps/40-halfres.jpg)|Hera Syndulla and C1-10P Ally Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/40.jpg)|
+|[Chopper Base, Atollon](IA_Half-Res_Skirmish_Maps/40-halfres.jpg)|Hera Syndulla and C1-10P Ally Pack|2017-07-07|[&rarr;](IA_300_DPI_Skirmish_Maps/40.jpg)|
 |[30th Floor Plaza](IA_Half-Res_Skirmish_Maps/41-halfres.jpg)|Heart of the Empire|2018-07-05|[&rarr;](IA_300_DPI_Skirmish_Maps/41.jpg)|
 |[Uscru Entertainment District](IA_Half-Res_Skirmish_Maps/42-halfres.jpg)|Ahsoka Tano, Rebel Instigator Ally Pack|2017-12-12|[&rarr;](IA_300_DPI_Skirmish_Maps/42.jpg)|
 |[Coruscant Back Alleys](IA_Half-Res_Skirmish_Maps/43-halfres.jpg)|Maul, Seeker of Vengeance|2018-07-05|[&rarr;](IA_300_DPI_Skirmish_Maps/43.jpg)|
@@ -65,8 +65,7 @@
 |---|---|:---:|:---:|
 |[Hoth Battlefield](IA_Half-Res_Skirmish_Maps/FourPlayer_01-halfres.jpg)|Return to Hoth|2017-09-01|[&rarr;](IA_300_DPI_Skirmish_Maps/FourPlayer_01.jpg)|
 |[Nal Hutta Borderlands](IA_Half-Res_Skirmish_Maps/FourPlayer_02-halfres.jpg)|Jabba's Realm|2017-09-01|(Note non-standard height) [&rarr;](IA_300_DPI_Skirmish_Maps/FourPlayer_02.jpg)|
-|Temple Gardens|Heart of the Empire|-|Not yet available|
-
+|[Temple Gardens](IA_Half-Res_Skirmish_Maps/FourPlayer_03-halfres.jpg)|Heart of the Empire|2019-02-02|(Note non-standard height) [&rarr;](IA_300_DPI_Skirmish_Maps/FourPlayer_03.jpg)|
 
 ### Printing
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
