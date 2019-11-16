@@ -67,6 +67,12 @@
 |[Nal Hutta Borderlands](IA_Half-Res_Skirmish_Maps/FourPlayer_02-halfres.jpg)|Jabba's Realm|2017-09-01|(Note non-standard height) [&rarr;](IA_300_DPI_Skirmish_Maps/FourPlayer_02.jpg)|
 |[Temple Gardens](IA_Half-Res_Skirmish_Maps/FourPlayer_03-halfres.jpg)|Heart of the Empire|2019-02-02|(Note non-standard height) [&rarr;](IA_300_DPI_Skirmish_Maps/FourPlayer_03.jpg)|
 
+#### Raid Maps
+| Map (Web Version Link) | Updated |Print Version|
+|---|:---:|:---:|
+|The Malastarian Outpost|-|Not available yet|
+|[The Gray Cap Cantina](IA_Half-Res_Skirmish_Maps/Raid_02-halfres.jpg)|2019-11-16|[&rarr;](IA_300_DPI_Skirmish_Maps/Raid_02.jpg)|
+
 ### Printing
 These maps are created at 300 DPI so they can be easily printed at full size to make functional playmats.
 ![playmat photo](web_images/map-sample.jpg)
@@ -85,7 +91,7 @@ In addition to making high resolution maps, much care has gone into cleaning up 
 
 ### Frequently Asked Questions
 * **How can I create some other mix of printable maps?** [Groups for each wave and all the tournament rotations been pre-generated](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets). Otherwise, the source code & files are all available as part of this GitHub project: download the project and edit the Python script to create a group you'd like to print (Wannabepudge has made a [guide to help](https://community.fantasyflightgames.com/topic/253553-imperial-assault-printable-skirmish-map-project/?do=findComment&comment=2960950)).
-* **Who’s credited for making these maps?** *Jabba's Palace* and maps predating *Jabba’s Realm* were made by Ibsh. Other were made by Nick by combining scans from Ibsh’s & Leacher with tile-retouching from Stephan, EvadGonzo, Oslatir, Paul Windram, Lorunks, and Fabiofotomoto.
+* **Who’s credited for making these maps?** *Jabba's Palace* and maps predating *Jabba’s Realm* were made by Ibsh. Other were made by Nick by combining scans from Ibsh’s & Leacher with tile-retouching & assembly from Stephan, EvadGonzo, Oslatir, Paul Windram, Lorunks, Fabiofotomoto, and El_Lalotreto.
 * **I found an mistake in the maps.** Please double check with the rules and original map insert. After confirming, please [Create an Issue](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/issues/new) on GitHub or let Nick know at the contact info below.
 * **How can I help** If you're good with image-editing, please get in touch before you create anything so we can share resources and avoid duplicating work accidentally. We'll need lots of help to finish the rest of the *Heart of the Empire* maps and there's lots to do to improve the quality of existing tile scans.
 
