@@ -246,19 +246,24 @@
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/49.jpg"
     },
     {
-      "name": "Four Player Hoth Battlefield",
+      "name": "Four Player: Hoth Battlefield",
       "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_01-halfres.jpg",
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_01.jpg"
     },
     {
-      "name": "Four Player Nal Hutta Borderlands",
+      "name": "Four Player: Nal Hutta Borderlands",
       "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_02-halfres.jpg",
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_02.jpg"
     },
     {
-      "name": "Four Player Temple Gardens",
+      "name": "Four Player: Temple Gardens",
       "imagePath": "IA_Half-Res_Skirmish_Maps/FourPlayer_03-halfres.jpg",
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_03.jpg"
+    },
+    {
+      "name": "Raid: The Gray Cap Cantina",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/Raid_02-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/Raid_02.jpg"
     }
   ]
 }
