@@ -1,4 +1,4 @@
-* Print `ReinforcementWave4Droids_1.pdf` at 59.92 inches wide by 24.0 inches tall (152.1968 by 60.96 cm)
+* Print `ReinforcementWave4Droids_1.pdf` at 59.6666666667 inches wide by 24.0 inches tall (151.553333333 by 60.96 cm)
 
 #### Notes
 * Recommended shop & product: [Printi PVC Banners](https://www.printi.com/setup-banners-and-mesh)
