@@ -57,7 +57,7 @@ for ithGroup in mapDict:
     # if ithGroup != 'All2PlayerMaps': continue
 
     listOfMapsInGroup = mapDict[ithGroup]
-    print "Working on: %s with %i maps" % (ithGroup, len(listOfMapsInGroup))
+    print("Working on: %s with %i maps" % (ithGroup, len(listOfMapsInGroup)))
     # make the output directory
     mkdir_p(os.path.join(outputDir, ithGroup))
 
@@ -103,12 +103,12 @@ for ithGroup in mapDict:
             sourceJPGfilenamesList.append(os.path.join('IA_300_DPI_Skirmish_Maps', '%02i.jpg' % mapInt))
 
         outputFile = os.path.join(outputDir, ithGroup, '%s_%i.pdf' % (ithGroup, fileNumberIter))
-        print "Creating:", outputFile
+        print("Creating:", outputFile)
         fileNumberIter += 1 # for next group
 
         # combine images:
-        images = map(Image.open, sourceJPGfilenamesList)
-        widths, heights = zip(*(i.size for i in images))
+        images = list(map(Image.open, sourceJPGfilenamesList))
+        widths, heights = list(zip(*(i.size for i in images)))
         total_width   = sum(widths)
         max_height    = max(heights)
         assert total_width <= 108*300, 'ERROR: Printi max is 108 inches, but this section would be %s inches' % (total_width/300.0)
