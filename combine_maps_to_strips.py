@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 # Convert 300 DPI Maps to PDF strips for printing
-# Requires Python 3 Pillow image processing libraries
+# Requires Python 2.7.X and PIL or Pillow image processing libraries
 
 import sys, os
 from PIL import Image
