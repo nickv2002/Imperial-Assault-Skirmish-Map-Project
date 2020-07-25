@@ -261,6 +261,11 @@
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/FourPlayer_03.jpg"
     },
     {
+      "name": "Raid: The Malastarian Outpost",
+      "imagePath": "IA_Half-Res_Skirmish_Maps/Raid_01-halfres.jpg",
+      "fullImagePath": "IA_300_DPI_Skirmish_Maps/Raid_01.jpg"
+    },
+    {
       "name": "Raid: The Gray Cap Cantina",
       "imagePath": "IA_Half-Res_Skirmish_Maps/Raid_02-halfres.jpg",
       "fullImagePath": "IA_300_DPI_Skirmish_Maps/Raid_02.jpg"
