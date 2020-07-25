@@ -1,7 +1,7 @@
 ![detail map preview](web_images/map-preview.jpg)
 # Imperial Assault Skirmish Map Project
 
-[New Orders](https://neworders.xyz) and [Board Wars](http://boardwars.eu/) podcasts are working together to bring you the Imperial Assault Skirmish Map Project. The project continues the lovely work started by Ibsh to create beautiful images for every Imperial Assault Skirmish Map. These maps serve two purposes:
+New Orders and [Board Wars](http://boardwars.eu/) podcasts are working together to bring you the Imperial Assault Skirmish Map Project. The project continues the lovely work started by Ibsh to create beautiful images for every Imperial Assault Skirmish Map. These maps serve two purposes:
 
 1. Skirmish maps have been added to the Boardwars.eu [Imperial Assault Image DB](http://cards.boardwars.eu/index.php?album=Skirmish-Maps) where they can be searched and referenced.
 2. Printable map groups are available for the current Imperial Assault tournament rotation as well as a full download of all the maps for printing.
@@ -70,7 +70,7 @@
 #### Raid Maps
 | Map (Web Version Link) | Updated |Print Version|
 |---|:---:|:---:|
-|The Malastarian Outpost|-|Not available yet|
+|[The Malastarian Outpost](IA_Half-Res_Skirmish_Maps/Raid_01-halfres.jpg)|2020-07-25|[&rarr;](IA_300_DPI_Skirmish_Maps/Raid_01.jpg)|
 |[The Gray Cap Cantina](IA_Half-Res_Skirmish_Maps/Raid_02-halfres.jpg)|2019-11-16|[&rarr;](IA_300_DPI_Skirmish_Maps/Raid_02.jpg)|
 
 ### Printing
@@ -78,14 +78,13 @@ These maps are created at 300 DPI so they can be easily printed at full size to 
 ![playmat photo](web_images/map-sample.jpg)
 
 * **The most popular printouts:** [All currently available maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/All2PlayerMaps) or [the current tournament maps](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets/TournamentRotationUscruTarkinLothal) (*Uscru Entertainment District*, *Tarkin Initiative Labs*, & *Lothal Wastes*).
-* There is also a [printable map set for each wave](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
-* Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;') and submitting that to Printi (after converting to PDF). To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
-* Recommended shop & product: [Printi PVC Banners](https://www.printi.com/pvc-banners)
-* Printi charges by the area of your print but there is a minimum charge that's about equal to 1 or 2 maps, so you might as well order a few at once to save on the cost per map. It's also much cheaper to choose the slowest delivery time on the order page.
+* There is also a [printable map set for each group](https://github.com/nickv2002/Imperial-Assault-Skirmish-Map-Project/tree/master/Combined_IA_Map_Sheets).
+* Finally, individual maps can be printed by downloading the 300 DPI **Print Versions** linked in the table above (with '&rarr;'). To calculate the print dimensions in inches: divide the horizontal and vertical pixels by 300.
+* Recommended shop & product: Printi PVC Banners were the recommendation but are no longer available, please let me know if you find a good replacement.
 * The JPG & PDF files are very large so some people have trouble seeing them on their computer. Give them some time if you have an older computer.
 
 ### Background & Colophon
-This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the [New Orders podcast](https://neworders.xyz/)). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/).
+This project was started by Ibsh and popularized on [this FFG Thread](https://community.fantasyflightgames.com/topic/186906-pre-assembled-skirmish-maps/). After Ibsh stepped away, he kindly passed the source files on Nick (nickv2002 on the forums and one of the hosts of the New Orders podcast). Nick worked with Stephan at [Boardwars.eu](http://boardwars.eu/) to integrate with their [Imperial Assault Image DB](http://cards.boardwars.eu/).
 
 In addition to making high resolution maps, much care has gone into cleaning up these map images. The seams between tiles have been removed, but you’ll also find altered wording for clearer mission rules and some other subtle tweaks that we think improves the maps.
 
